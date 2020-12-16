@@ -7,15 +7,8 @@ La criptografía (del griego κρύπτos (kryptós), «secreto», y γραφή 
 ![candado jaja](https://nemespanol.io/wp-content/uploads/2019/10/quantumexplainer3.2-01-1024x576-1024x585.jpg)
 
 
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/georgeisamazed/BotCryptograph/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div id="text"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
